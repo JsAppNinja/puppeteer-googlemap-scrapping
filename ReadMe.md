@@ -5,7 +5,7 @@ GoogleMap web scraping sample
 ## Project source
 
 ```
-https://github.com/pioneeringdev/Node-Puppeteer-googleMap-scrapping
+https://github.com/cbarrettninja/puppeteer-googlemap-scrapping
 ```
 
 ## Description
@@ -16,4 +16,4 @@ It gets all the reviews and the start of location with Infinite scroll over.
 ### Frameworks
 
 Node.js, puppeteer
-developed for the testing project
+developed for testing a solution for another project.
